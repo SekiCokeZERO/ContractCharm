@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: UNLICENSED
-pragma solidity =0.8.24;
+pragma solidity =0.8.25;
 
 //编译时请检查 compiler_config.json 中的 evmVersion 以避免造成兼容性问题
 contract Factory {
